@@ -1,3 +1,7 @@
 
 added new code
 this is practise2
+
+bug fixed not commited
+
+line added
